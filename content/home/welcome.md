@@ -2,8 +2,8 @@
 advanced:
   ? css_style
   ? css_class
-widget: blank
-widget_id: homepage
+widget: hero
+widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: Wowchemy Research Group
