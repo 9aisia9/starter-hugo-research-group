@@ -8,8 +8,14 @@ headless: true
 weight: 10
 title: Wowchemy Research Group
 subtitle: ""
+active: true
 design:
-  columns: "1"
+  columns: "2"
+  background:
+    color: "#e21a1a"
+    gradient_start: "#232222"
+    gradient_end: "#fb0303"
+    text_color_light: true
 hero_media: welcome.jpg
 ---
 
